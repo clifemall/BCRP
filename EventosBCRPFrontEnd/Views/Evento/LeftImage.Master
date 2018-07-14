@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LeftImage.master.cs" Inherits="EventosBCRPFrontEnd.Views.Evento.LeftImage" %>
+
+
+<body>
+    <form id="form1" runat="server">
+        <div class="col-sm-3 barimage" style="background: url('/Images/Ima01.png') no-repeat; background-size: cover;"></div>
+        <div class="col-sm-9" id="panel_evento">
+            <div class="container contenedoreventos">
+                <div class="panel-body scrollbar-black" runat="server">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+

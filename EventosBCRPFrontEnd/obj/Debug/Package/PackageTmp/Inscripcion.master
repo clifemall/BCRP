@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/PrincipalEvento.Master" AutoEventWireup="true" CodeBehind="Inscripcion.master.cs" Inherits="EventosBCRPFrontEnd.Inscripcion" %>
+
+<asp:Content ID="BodyPage" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="container">
+        <p class="titulocontenedor"><u>INSCRIPCIÓN</u></p>
+        <%--<p class="text-sm-left">Porfavor selescione el evento de su interes</p>--%>
+    </div>
+    <%-- <div class="container">
+        <p class="titulocontenedor"><u>INSCRIPCIÓN</u></p>
+    </div>--%>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+            <div class="col-sm-9">    
+                <%--<asp:ImageButton ID="ImageButton1" runat="server" class="btn btn-warning" Text="Información general" OnClick="inscripcionInfGeneral_Click" BackColor="#CC8C2E" ImageUrl ="/Images/Icons/Info-40.png"></asp:ImageButton>--%>
+                <asp:LinkButton ID="inscripcionInfGeneral" runat="server" class="btn btn-warning ButtonActived" OnClick="inscripcionInfGeneral_Click">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="/Images/Icons/Info-40.png" BackColor="Transparent" />
+                    <asp:Label ID="Label5" runat="server" Text="Información general"></asp:Label>
+                </asp:LinkButton>
+
+
+                <asp:LinkButton ID="btnAgendaActividad" runat="server" class="btn btn-warning ButtonActived" OnClick="btnAgendaActividad_Click">
+                    <asp:Image ID="Image2" runat="server" ImageUrl="/Images/Icons/Mail-40.png" BackColor="Transparent" />
+                    <asp:Label ID="Label1" runat="server" Text="Agenda/Actividad"></asp:Label>
+                </asp:LinkButton>
+                <asp:LinkButton ID="btnInformacionAdd" runat="server" class="btn btn-warning ButtonActived" OnClick="btnInformacionAdd_Click">
+                    <asp:Image ID="Image3" runat="server" ImageUrl="/Images/Icons/Plus_40.png" BackColor="Transparent" />
+                    <asp:Label ID="Label2" runat="server" Text="Información adicional"></asp:Label>
+                </asp:LinkButton>
+            </div>
+        </div>
+        <div class="row">
+            <br />
+        </div>
+        <div class="row">
+            <div class="col-sm-3" style="background-color: lavender">
+                <asp:Image ID="imgParticipante" runat="server" alt="Foto Participante" />
+                <br />
+                <strong>
+                    <asp:Label ID="lblNombre" runat="server"></asp:Label>
+                </strong>
+                <br />
+                <strong>
+                    <asp:Label ID="lblCorreo" runat="server"></asp:Label></strong>
+                <asp:Label ID="lblOrganizacion" runat="server"></asp:Label>
+
+                <asp:Button ID="btnDelegar" runat="server" CssClass="btn btn-success" Text="Delegar Invitación" OnClick="btnDelegar_Click" />
+
+            </div>
+            <div class="col-sm-9">
+                <%--<asp:ScriptManager ID="ScriptManager2" runat="server"></asp:ScriptManager>--%>
+               
+                 
+                    
+                        <asp:ContentPlaceHolder ID="contentBody" runat="server">
+                        </asp:ContentPlaceHolder>
+                    
+            </div>
+        </div>
+        <div class="row">
+            <br />
+        </div>
+    </div>
+
+</asp:Content>

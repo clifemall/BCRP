@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{10722A78-374B-47DA-B855-DF55A96B4AEF}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EventosBCRPFrontEnd</RootNamespace>
+    <AssemblyName>EventosBCRPFrontEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TypeScriptToolsVersion>2.9</TypeScriptToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=18.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.18.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ARSoft.Tools.Net, Version=2.2.2.0, Culture=neutral, PublicKeyToken=1940454cd762ec57, processorArchitecture=MSIL">
+      <HintPath>..\packages\ARSoft.Tools.Net.2.2.2\lib\net45\ARSoft.Tools.Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.4.0.0\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery, Version=3.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.3.1\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.7.4137.9688, Culture=neutral, PublicKeyToken=a4292a325f69b123, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.1.7.0\lib\Net40-Client\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EmailValidation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EmailValidator.NET.1.0.5\lib\net45\EmailValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Liphsoft.Crypto.Argon2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Liphsoft.Crypto.Argon2.1.0.5\lib\net35\x86\Liphsoft.Crypto.Argon2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.2.3\lib\net45\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\bootstrap-grid.css" />
+    <Content Include="Content\bootstrap-grid.min.css" />
+    <Content Include="Content\bootstrap-reboot.css" />
+    <Content Include="Content\bootstrap-reboot.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\BCRPStyle.css" />
+    <Content Include="Content\css\bootstrap-glyphicons.css" />
+    <Content Include="Content\css\bootstrap-glyphicons.min.css" />
+    <Content Include="Content\css\Scrollbar.css" />
+    <Content Include="Content\css\main.css" />
+    <Content Include="Content\fonts\fontawesome\fa-brands-400.svg" />
+    <Content Include="Content\fonts\fontawesome\fa-regular-400.svg" />
+    <Content Include="Content\fonts\fontawesome\fa-solid-900.svg" />
+    <Content Include="Content\fonts\glyphicons\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\jquery.toast.css" />
+    <Content Include="Content\maps\glyphicons-fontawesome.css" />
+    <Content Include="Content\maps\glyphicons-fontawesome.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\tempusdominus-bootstrap-4.min.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="Content\fonts\TrajanPro-Regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\burger.png" />
+    <Content Include="Images\DefaultEvento.png" />
+    <Content Include="Images\BackGround01.png" />
+    <Content Include="Images\Document-40.png" />
+    <Content Include="Images\Eliminar.png" />
+    <Content Include="Images\EliminarMin.png" />
+    <Content Include="Images\español-off.png" />
+    <Content Include="Images\español.jpg" />
+    <Content Include="Images\español.png" />
+    <Content Include="Images\i.png" />
+    <Content Include="Images\Icons\Calendar-40.png" />
+    <Content Include="Images\Icons\down-40.png" />
+    <Content Include="Images\Icons\Info-40.png" />
+    <Content Include="Images\Icons\Mail-40.png" />
+    <Content Include="Images\Icons\menu.png" />
+    <Content Include="Images\Icons\Plus_40.png" />
+    <Content Include="Images\Ima01.png" />
+    <Content Include="Images\ingles-off.png" />
+    <Content Include="Images\ingles.jpg" />
+    <Content Include="Images\ingles.png" />
+    <Content Include="Images\Logo01.png" />
+    <Content Include="Images\Logo02.png" />
+    <Content Include="Images\menu.png" />
+    <Content Include="Images\Pdefault.jpeg" />
+    <Content Include="login1.aspx" />
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\esm\popper-utils.js" />
+    <Content Include="Scripts\esm\popper-utils.min.js" />
+    <Content Include="Scripts\esm\popper.js" />
+    <Content Include="Scripts\esm\popper.min.js" />
+    <Content Include="Scripts\esm\popper.min.js.map" />
+    <Content Include="Scripts\esm\popper.js.map" />
+    <Content Include="Scripts\esm\popper-utils.min.js.map" />
+    <Content Include="Scripts\esm\popper-utils.js.map" />
+    <Content Include="Scripts\bootstrap.min.js.map" />
+    <Content Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-reboot.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.css.map" />
+    <Content Include="Content\bootstrap-grid.min.css.map" />
+    <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Principal.Master" />
+    <Content Include="PlantillaPrincipal.master" />
+    <Content Include="PrincipalEvento.Master" />
+    <Content Include="Content\fonts\fontawesome\fa-brands-400.eot" />
+    <Content Include="Content\fonts\fontawesome\fa-brands-400.ttf" />
+    <Content Include="Content\fonts\fontawesome\fa-brands-400.woff" />
+    <Content Include="Content\fonts\fontawesome\fa-brands-400.woff2" />
+    <Content Include="Content\fonts\fontawesome\fa-regular-400.eot" />
+    <Content Include="Content\fonts\fontawesome\fa-regular-400.ttf" />
+    <Content Include="Content\fonts\fontawesome\fa-regular-400.woff" />
+    <Content Include="Content\fonts\fontawesome\fa-regular-400.woff2" />
+    <Content Include="Content\fonts\fontawesome\fa-solid-900.eot" />
+    <Content Include="Content\fonts\fontawesome\fa-solid-900.ttf" />
+    <Content Include="Content\fonts\fontawesome\fa-solid-900.woff" />
+    <Content Include="Content\fonts\fontawesome\fa-solid-900.woff2" />
+    <Content Include="Content\fonts\glyphicons\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\fonts\glyphicons\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\fonts\glyphicons\glyphicons-halflings-regular.woff2" />
+    <Content Include="Content\maps\glyphicons-fontawesome.less" />
+    <Content Include="Content\fonts\TrajanPro-Regular.eot" />
+    <Content Include="Content\fonts\TrajanPro-Regular.otf" />
+    <Content Include="Content\fonts\TrajanPro-Regular.ttf" />
+    <Content Include="Content\fonts\TrajanPro-Regular.woff" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jquery.maskedinput.js" />
+    <Content Include="Scripts\jquery.toast.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\moment-with-locales.js" />
+    <Content Include="Scripts\moment-with-locales.min.js" />
+    <Content Include="Scripts\moment.js" />
+    <Content Include="Scripts\moment.min.js" />
+    <Content Include="Scripts\OpenStreet\images\layers-2x.png" />
+    <Content Include="Scripts\OpenStreet\images\layers.png" />
+    <Content Include="Scripts\OpenStreet\images\marker-icon-2x.png" />
+    <Content Include="Scripts\OpenStreet\images\marker-icon.png" />
+    <Content Include="Scripts\OpenStreet\images\marker-shadow.png" />
+    <Content Include="Scripts\OpenStreet\leaflet-src.js" />
+    <Content Include="Scripts\OpenStreet\leaflet.css" />
+    <Content Include="Scripts\OpenStreet\leaflet.js" />
+    <Content Include="Scripts\popper-utils.js" />
+    <Content Include="Scripts\popper-utils.min.js" />
+    <Content Include="Scripts\popper.js" />
+    <Content Include="Scripts\popper.min.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\tempusdominus-bootstrap-4.min.js" />
+    <Content Include="Scripts\umd\popper-utils.js" />
+    <Content Include="Scripts\umd\popper-utils.min.js" />
+    <Content Include="Scripts\umd\popper.js" />
+    <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="Scripts\validation\Validation.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Site.Master" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Views\Evento\AgendaEvento.aspx" />
+    <Content Include="Views\Evento\Demo.aspx" />
+    <Content Include="Views\Evento\ExpositoresParticipanteEvento.aspx" />
+    <Content Include="Views\Evento\HomeEvento.aspx" />
+    <Content Include="Views\Evento\InscripcionEvento.aspx" />
+    <Content Include="Views\Evento\PresentacionesEvento.aspx" />
+    <Content Include="Views\Principal\TerminosCondiciones.aspx" />
+    <Content Include="Views\Principal\CambiarContrasena.aspx" />
+    <Content Include="Views\Principal\Captcha.aspx" />
+    <Content Include="Views\Principal\ListaEventos.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Views\Principal\PantallaApp.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+    <Content Include="Views\web.config" />
+    <Content Include="Scripts\umd\popper.min.js.map" />
+    <Content Include="Scripts\umd\popper.js.map" />
+    <Content Include="Scripts\umd\popper-utils.min.js.map" />
+    <Content Include="Scripts\umd\popper-utils.js.map" />
+    <Content Include="Scripts\README.md" />
+    <Content Include="Scripts\popper.min.js.map" />
+    <Content Include="Scripts\popper.js.map" />
+    <Content Include="Scripts\popper-utils.min.js.map" />
+    <Content Include="Scripts\popper-utils.js.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\CustomMembershipProvider.cs" />
+    <Compile Include="Custom\SessionManager.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\Captcha\clCaptchaResult.cs" />
+    <Compile Include="Functions\Captcha\clGetCaptcha.cs" />
+    <Compile Include="Functions\clGenNombreFoto.cs" />
+    <Compile Include="Functions\clGetFileFTP.cs" />
+    <Compile Include="Functions\clGetIdiomaPlantilla.cs" />
+    <Compile Include="Functions\clGetRepositorio.cs" />
+    <Compile Include="Functions\clGetSplitIndex.cs" />
+    <Compile Include="Functions\clRedirecGet64.cs" />
+    <Compile Include="Functions\clRestResponse.cs" />
+    <Compile Include="Functions\clValueKeyConfig.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="login1.aspx.cs">
+      <DependentUpon>login1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login1.aspx.designer.cs">
+      <DependentUpon>login1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BoolResult.cs" />
+    <Compile Include="Models\Entities\AutenticacionParticipanteResult.cs" />
+    <Compile Include="Models\Entities\cambiarClaveUsuarioResult.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarClaveUsuario_Result.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarCondicionesEspecialesParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarDatosAdicionalesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarDatosContactoParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarDatosPersonalesParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ActualizarInstitucion_Result.cs" />
+    <Compile Include="Models\Entities\pa_AutenticacionParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_BuscarParticipantePorEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_CambiarClaveUsuario_Result.cs" />
+    <Compile Include="Models\Entities\pa_EliminarInvitadoPorIDInvitado_Result.cs" />
+    <Compile Include="Models\Entities\pa_EliminarListaActividadesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_FiltroListaUbigeo_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarDelegadoParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarInformacionAdicional_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarIngresoActividadPorCodigoQR_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarInstitucion_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarInvitadoParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarListaActividadesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarListaInvitadoParticipantePorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarParticipanteActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarPersona_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarPreguntaActividadPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarRespuestaEncuesta_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarSugerenciaEncuesta_Result.cs" />
+    <Compile Include="Models\Entities\pa_InsertarUsuario_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerAcercaEventoPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerActividadAgendaPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerActividadSocialPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerAuspiciadoresPorIDAuspiciadores_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerCabeceraEncuestaPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerCondicionesEspecialesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDatosAdicionalesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDatosContactoPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDatosParticipantePorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDatosPersonalesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDatosServerRepositorio_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerDetalleEventoPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerExpositorPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaActividadesPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaActividadesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaAuspiciadoresPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaContactosPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaEventosPorIDUsuario_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaExpositoresPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaExpositoresPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaHostPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaHoteles_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaHotelRecomendado_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaImagenEventoPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaInvitadoParticipantePorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaInvitadoPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaNotificacionesPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaParticipantePorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaParticipantesPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaPermisosPlantillaFrontPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaPreguntasActividadPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaPreguntasActividadPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaPreguntasEncuesta_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaRepositoriosPorIDActividad_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaRepositoriosPorIDEvento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaRepositoriosPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaTextoPlantillaFront_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerListaTipoDocumento_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerMensajeAcceso_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerParticipantePorCorreo_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerPerfilPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerQRPorIDParticipante_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerTodoEventoPag_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerTodoInstitucion_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerTodoParticipantePag_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerTodoPersonaPag_Result.cs" />
+    <Compile Include="Models\Entities\pa_ObtenerTodoUsuarioPag_Result.cs" />
+    <Compile Include="Models\Params\actualizarClaveUsuarioParams.cs" />
+    <Compile Include="Models\Params\actualizarCondicionesEspecialesParticipanteParams.cs" />
+    <Compile Include="Models\Params\actualizarDatosAdicionalesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\actualizarDatosContactoParticipanteParams.cs" />
+    <Compile Include="Models\Params\actualizarDatosPersonalesParticipanteParams.cs" />
+    <Compile Include="Models\Params\cambiarClaveUsuarioParams.cs" />
+    <Compile Include="Models\Params\CambiarContrasenaTodosParams.cs" />
+    <Compile Include="Models\Params\eliminarAgendaActividadPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\eliminarInvitadoPorIDInvitadoParams.cs" />
+    <Compile Include="Models\Params\filtroListaUbigeoParams.cs" />
+    <Compile Include="Models\Params\insertarDelegadoParticipanteParams.cs" />
+    <Compile Include="Models\Params\insertarIngresoActividadPorCodigoQRParams.cs" />
+    <Compile Include="Models\Params\insertarInvitadoParticipanteParams.cs" />
+    <Compile Include="Models\Params\insertarListaActividadesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\insertarListaInvitadoParticipantePorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\insertarParticipanteActividadParams.cs" />
+    <Compile Include="Models\Params\insertarPreguntaActividadPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\insertarRespuestaEncuestaParams.cs" />
+    <Compile Include="Models\Params\insertarSugerenciaEncuestaParams.cs" />
+    <Compile Include="Models\Params\obtenerAcercaEventoPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerActividadAgendaPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerActividadSocialPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerAuspiciadoresPorIDAuspiciadoresParams.cs" />
+    <Compile Include="Models\Params\obtenerCabeceraEncuestaPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerCondicionesEspecialesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerDatosAdicionalesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerDatosContactoPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerDatosParticipantePorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerDatosPersonalesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerDetalleEventoPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerExpositorPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerFotoAuspiciadoresPorIDAuspiciadoresParams.cs" />
+    <Compile Include="Models\Params\obtenerFotoCroquisActividadPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerFotoEventoPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerFotoImagenEventoPorIDImagenEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerFotoParticipantePorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaActividadesPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaActividadesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaAuspiciadoresPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaContactosPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaExpositoresPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerListaExpositoresPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaHostPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaHotelesParams.cs" />
+    <Compile Include="Models\Params\obtenerListaImagenEventoPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaInvitadoParticipantePorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaNotificacionesPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaParticipantePorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaPermisosPlantillaFrontPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaPreguntasActividadPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerListaPreguntasActividadPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaPreguntasEncuestaParams.cs" />
+    <Compile Include="Models\Params\obtenerListaRepositoriosPorIDActividadParams.cs" />
+    <Compile Include="Models\Params\obtenerListaRepositoriosPorIDEventoParams.cs" />
+    <Compile Include="Models\Params\obtenerListaRepositoriosPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaTextoPlantillaFrontParams.cs" />
+    <Compile Include="Models\Params\obtenerListaTipoDocumentoParams.cs" />
+    <Compile Include="Models\Params\obtenerMensajeAccesoParams.cs" />
+    <Compile Include="Models\Params\obtenerPerfilPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerQRPorIDParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerTodoEventoPagParams.cs" />
+    <Compile Include="Models\Params\obtenerTodoInstitucionParams.cs" />
+    <Compile Include="Models\Params\obtenerTodoParticipantePagParams.cs" />
+    <Compile Include="Models\Params\obtenerTodoPersonasPagParams.cs" />
+    <Compile Include="Models\Params\obtenerTodoUsuarioPagParams.cs" />
+    <Compile Include="Models\Params\recuperarContrasenaPorCorreoUsuarioParams.cs" />
+    <Compile Include="Models\Params\SalvarImagenRepositorioParams.cs" />
+    <Compile Include="Models\Result\SalvarImagenRepositorioResult.cs" />
+    <Compile Include="PlantillaPrincipal.master.cs">
+      <DependentUpon>PlantillaPrincipal.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PlantillaPrincipal.master.designer.cs">
+      <DependentUpon>PlantillaPrincipal.master</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalEvento.Master.cs">
+      <DependentUpon>PrincipalEvento.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrincipalEvento.Master.designer.cs">
+      <DependentUpon>PrincipalEvento.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\actividadService.cs" />
+    <Compile Include="Services\autenticacionParticipanteService.cs" />
+    <Compile Include="Services\eventoService.cs" />
+    <Compile Include="Models\Params\autenticacionParticipanteParams.cs" />
+    <Compile Include="Models\Params\obtenerListaEventosPorIDUsuarioParams.cs" />
+    <Compile Include="Services\invitadoParticipanteService.cs" />
+    <Compile Include="Services\participanteService.cs" />
+    <Compile Include="Services\plantillaFrontService.cs" />
+    <Compile Include="Services\RepositoriesService.cs" />
+    <Compile Include="Services\tipoDocumentoService.cs" />
+    <Compile Include="Services\usuarioService.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\AgendaEvento.aspx.cs">
+      <DependentUpon>AgendaEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\AgendaEvento.aspx.designer.cs">
+      <DependentUpon>AgendaEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\Demo.aspx.cs">
+      <DependentUpon>Demo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\Demo.aspx.designer.cs">
+      <DependentUpon>Demo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\ExpositoresParticipanteEvento.aspx.cs">
+      <DependentUpon>ExpositoresParticipanteEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\ExpositoresParticipanteEvento.aspx.designer.cs">
+      <DependentUpon>ExpositoresParticipanteEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\HomeEvento.aspx.cs">
+      <DependentUpon>HomeEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\HomeEvento.aspx.designer.cs">
+      <DependentUpon>HomeEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\InscripcionEvento.aspx.cs">
+      <DependentUpon>InscripcionEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\InscripcionEvento.aspx.designer.cs">
+      <DependentUpon>InscripcionEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Evento\PresentacionesEvento.aspx.cs">
+      <DependentUpon>PresentacionesEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Evento\PresentacionesEvento.aspx.designer.cs">
+      <DependentUpon>PresentacionesEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformacionGeneral.master.cs">
+      <DependentUpon>InformacionGeneral.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InformacionGeneral.master.designer.cs">
+      <DependentUpon>InformacionGeneral.master</DependentUpon>
+    </Compile>
+    <Compile Include="Inscripcion.master.cs">
+      <DependentUpon>Inscripcion.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inscripcion.master.designer.cs">
+      <DependentUpon>Inscripcion.master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\TerminosCondiciones.aspx.cs">
+      <DependentUpon>TerminosCondiciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\TerminosCondiciones.aspx.designer.cs">
+      <DependentUpon>TerminosCondiciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\CambiarContrasena.aspx.cs">
+      <DependentUpon>CambiarContrasena.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\CambiarContrasena.aspx.designer.cs">
+      <DependentUpon>CambiarContrasena.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\Captcha.aspx.cs">
+      <DependentUpon>Captcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\Captcha.aspx.designer.cs">
+      <DependentUpon>Captcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\ListaEventos.aspx.cs">
+      <DependentUpon>ListaEventos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\ListaEventos.aspx.designer.cs">
+      <DependentUpon>ListaEventos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\MasterEvento.Master.cs">
+      <DependentUpon>MasterEvento.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\MasterEvento.Master.designer.cs">
+      <DependentUpon>MasterEvento.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Principal\PantallaApp.aspx.cs">
+      <DependentUpon>PantallaApp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Principal\PantallaApp.aspx.designer.cs">
+      <DependentUpon>PantallaApp.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="InformacionGeneral.master" />
+    <Content Include="Inscripcion.master" />
+    <Content Include="Views\Principal\MasterEvento.Master" />
+    <Content Include="Scripts\OpenStreet\leaflet-src.js.map" />
+    <Content Include="Scripts\OpenStreet\leaflet.js.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Scripts\index.d.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49914</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49914/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Liphsoft.Crypto.Argon2.1.0.5\build\Liphsoft.Crypto.Argon2.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Liphsoft.Crypto.Argon2.1.0.5\build\Liphsoft.Crypto.Argon2.targets'))" />
+  </Target>
+  <Import Project="..\packages\Liphsoft.Crypto.Argon2.1.0.5\build\Liphsoft.Crypto.Argon2.targets" Condition="Exists('..\packages\Liphsoft.Crypto.Argon2.1.0.5\build\Liphsoft.Crypto.Argon2.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

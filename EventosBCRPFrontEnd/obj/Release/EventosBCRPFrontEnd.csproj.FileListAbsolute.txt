@@ -1,0 +1,812 @@
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\WebForm\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\CapaEntidades.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\CapaEntidades.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\EventosBCRPFrontEnd\Diego\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+C:\Users\USER\Desktop\Miguel noche\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojAssemblyReference.cache
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EmailValidation.dll
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.xml
+E:\RealTgestiona\FINAL DEL FINAL\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.pdb
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\EmailValidation.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\WebGrease.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.pdb
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\RestSharp.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+C:\Users\Zeit 38\Desktop\DROPP\FINALLLLLLLLLLLLLLLL_v3\WEB FRONT\EventosBCRPFrontEnd\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\EmailValidation.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\RestSharp.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\WebGrease.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.pdb
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\RestSharp.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojAssemblyReference.cache
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+E:\CHECKOUT\Nueva carpeta\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\EmailValidation.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\RestSharp.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\WebGrease.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.pdb
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\RestSharp.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojResolveAssemblyReference.cache
+d:\Desktop\Front\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+d:\Desktop\Front\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\ApplicationInsights.config
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll.config
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\EventosBCRPFrontEnd.pdb
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\csc.exe
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\csc.exe.config
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\csc.rsp
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\csi.exe
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\csi.rsp
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.AppContext.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\vbc.exe
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\vbc.exe.config
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\vbc.rsp
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\AjaxControlToolkit.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Antlr3.Runtime.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\EmailValidation.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Liphsoft.Crypto.Argon2.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Newtonsoft.Json.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\RestSharp.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Helpers.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Mvc.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Optimization.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Razor.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\WebGrease.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\ARSoft.Tools.Net.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\BouncyCastle.Crypto.pdb
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\RestSharp.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Optimization.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Antlr3.Runtime.pdb
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Newtonsoft.Json.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Razor.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Helpers.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\System.Web.Mvc.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\Microsoft.AI.Web.xml
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Razor.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csprojAssemblyReference.cache
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.csproj.CopyComplete
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.dll
+C:\Users\Zeit 39\Desktop\FUENTES\Front End\EventosBCRPFrontEnd\obj\Release\EventosBCRPFrontEnd.pdb

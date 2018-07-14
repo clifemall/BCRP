@@ -1,0 +1,325 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterEvento.Master.cs" Inherits="EventosBCRPFrontEnd.Views.Principal.MaterEvento" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="../../Content/css/Scrollbar.css" rel="stylesheet" />
+    <link href="../../Content/css/bootstrap-glyphicons.css" rel="stylesheet" />
+    <!--Estilos propios-->
+    <link href="../../Content/css/BCRPStyle.css" rel="stylesheet" />
+    <!--Jscript propios-->
+    <script src="../../Scripts/validation/Validation.js"></script>
+
+    <script src="../../Scripts/jquery-3.3.1.min.js"></script>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+    <link href="../../Content/css/main.css" rel="stylesheet" />
+    <link href="../../Content/jquery.toast.css" rel="stylesheet" />
+    <script src="../../Scripts/moment.js"></script>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css">
+    <script src="../../Scripts/tempusdominus-bootstrap-4.min.js"></script>
+    <link href="../../Content/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <script src="../../Scripts/jquery.maskedinput.js"></script>
+
+    <script src="../../Scripts/jquery.toast.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<script type="text/javascript">
+
+    $(function () {
+        $(".accordion-titulo").click(function (e) {
+
+            e.preventDefault();
+
+            var contenido = $(this).next(".accordion-content");
+
+            if (contenido.css("display") == "none") { //open        
+                contenido.slideDown(250);
+                $(this).addClass("open");
+            }
+            else { //close       
+                contenido.slideUp(250);
+                $(this).removeClass("open");
+            }
+
+        });
+    });
+
+    function callAlert() {
+        $(".alert").fadeTo(1500, 0).slideUp(1200, function () {
+            $(this).hide();
+        });
+    };
+
+    function ToastSucces(Tittle, Text) {
+
+        $.toast({
+            heading: Tittle,
+            text: Text,
+            position: 'bottom-right',
+            showHideTransition: 'slide',
+            icon: 'success'
+        })
+    }
+    function ToastError(Tittle, Text) {
+        $.toast({
+            heading: Tittle,
+            text: Text,
+            position: 'bottom-right',
+            hideAfter: false,
+            //showHideTransition: 'fade',
+            icon: 'error'
+        })
+    }
+    function ToastInfo(Tittle, Text) {
+        $.toast({
+            heading: Tittle,
+            text: Text,
+            position: 'bottom-right',
+            showHideTransition: 'slide',
+            icon: 'info'
+        })
+    }
+
+
+    $(document).ready(function () {
+
+
+        $("#contenido2").hide();
+
+        $("#btnDelegar").click(function () {
+            var e1 = $("#contenido1").is(":visible");
+            var e2 = $("#contenido2").is(":visible");
+            //var e1 = document.getElementById('#contenido1');
+            //var e2 = document.getElementById('#contenido2');
+            //alert('cvvfg');
+            if (e1) {
+                // alert('cvvfg1');
+                $("#contenido1").hide();
+                $("#contenido2").show();
+                $("#ContentPlaceHolder1_navinfogeneral").hide();
+                $("#ContentPlaceHolder1_navagenda").hide();
+                $("#ContentPlaceHolder1_navadicional").hide();
+            }
+            if (e2) {
+                $("#contenido2").hide();
+                $("#contenido1").show();
+                $("#ContentPlaceHolder1_navinfogeneral").show();
+                $("#ContentPlaceHolder1_navagenda").show();
+                $("#ContentPlaceHolder1_navadicional").show();
+                // alert('cvvfg2');
+            }
+            //$('.collapse').collapse()
+            //if (e1.hidden == true & e2.hidden == false) {
+            //    alert('cvvfg');
+            //    e1.style.display = 'none';
+            //    e2.style.display = 'block';
+            //}
+            //else
+            //{
+            //    alert('cvvfg');
+            //    e2.style.display = 'none';
+            //    e1.style.display = 'block';
+            //}
+            //       e.style.display == 'block'
+
+        });
+        //$(".alerta").show(function () {
+        //    alert("aquitoy");
+        //    $(".alerta").fadeTo(1000, 0).slideUp(500, function () {
+        //        $(this).hide();
+        //    });
+        //});
+        //function callAlert() {
+
+        //    $(".alerta").fadeTo(1000, 0).slideUp(500, function () {
+        //        $(this).hide();
+        //    });
+        //};
+
+
+        //alert("evento load detectado!");
+        //$('#panel_evento').load('HomeEvento.aspx');
+
+
+        //$('ul.nav li a').click(function () {
+        //    var page = $(this).attr('id');
+        //    //alert(page);
+        //    //$('#panel_evento').load(page + '.aspx');
+        //    $.get(page + '.aspx', function (data) {
+        //        //alert(data);
+        //        $("#panel_evento").html(data);
+
+        //        if (page == 'InscripcionEvento') {
+        //            $('#panel-inscripcion').load('InformacionGeneralEvento.aspx');
+        //        }
+        //    });
+        //});
+    });
+</script>
+
+
+<body>
+
+    <style>
+        nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+            opacity: 0.7;
+        }
+
+        .navbar-light .navbar-nav .nav-link {
+            color: #fff !important;
+            font-size: 14px;
+        }
+    </style>
+
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server" ID="ScriptManagerAcompanante" EnablePartialRendering="true" />
+        <nav class="navbar navbar-expand-lg navbar-light bg-bcrp  ">
+            <a class="navbar-brand" href="../Principal/ListaEventos.aspx">
+                <img src="/Images/Logo02.png" />
+                <asp:Label ID="labDate" runat="server"></asp:Label>
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="nav navbar-nav">
+
+                    <li class="nav-item nav-right">
+                        <a id="A1" runat="server" class="nav-link1 nav-link" style="color: #ffd800 !important;" href="~/Views/Principal/ListaEventos.aspx">EVENTOS DISPONIBLES</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a id="HomeEvento" runat="server" class="nav-link" href="~/Views/Evento/HomeEvento.aspx">INICIO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="InscripcionEvento" runat="server" class="nav-link" href="~/Views/Evento/InscripcionEvento.aspx">INSCRIPCIÓN</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="opAgend" runat="server" class="nav-link" href="~/Views/Evento/AgendaEvento.aspx">AGENDA</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li class="nav-item"><a id="opPresentacione" runat="server" href="~/Views/Evento/PresentacionesEvento.aspx" class="nav-link">PRESENTACIONES</a></li>
+                    <li class="nav-item"><a id="opExpositoresPart" runat="server" href="~/Views/Evento/ExpositoresParticipanteEvento.aspx" class="nav-link">EXPOSITORES Y PARTICIPANTES</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="nav-item"><a id="opCerrarSesio" runat="server" href="~/Login.aspx" class="nav-link">
+                        <%--    <span class="glyphicon glyphicon-user"></span>--%>
+                        CERRAR SESIÓN</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="row container-fluid text-center nopadding nomargin" style="position: fixed; height: 100%;">
+            <!--CONTENEDOR DEL MASTER-->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+        <div class="modal fade" id="myModal2" role="dialog">
+
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 id="delegarPartMdl" runat="server" class="modal-title">Confirmar</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <p id="tituloMdl" runat="server" class="big02 nopadding onlymargintop-10">
+                            Se enviara a su correo una nueva contraseña ¿Esta seguro(a)?
+                        </p>
+                        <br />
+                        <div id="S02" runat="server" class="alert alert-success" visible="false">
+                            <strong>Se envio la contraseña a su correo electronico registrado</strong>
+                        </div>
+                        <div id="D01" runat="server" class="alert alert-warning" visible="false">
+                            <strong>No se pudieron ahcer los cambios!</strong>
+                        </div>
+                        <div id="D02" runat="server" class="alert alert-warning" visible="false">
+                            <p><strong>revisar!</strong> formato de correo incorrecto!</p>
+                        </div>
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <%--<asp:LinkButton ID="btnSi" runat="server" OnClick="btnSi_Click" class="btn btn-primary">Si</asp:LinkButton>--%>
+                        <button type="button" class="btn btn-danger" id="modal-btn-no">No</button>
+                        <%--<asp:LinkButton ID="btnEnviarMdl" runat="server" OnClick="btnEnviarMdl_Click" type="button" class="btn btn-danger" data-dismiss="modal">LinkButton</asp:LinkButton>--%>
+                        <%--<asp:LinkButton id="btnEnviarMdl" runat="server" OnClick="btnEnviarMdl_Click" type="button" class="btn btn-danger" data-dismiss="modal"/>--%>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!--MODAL DE LISTA DE PREGUNTAS-->
+        <div class="modal fade" id="myModal" role="dialog">
+            <asp:UpdatePanel ID="UpdatePanel4" runat="server">
+                <ContentTemplate>
+                    <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content center">
+                            <!-- Modal Header -->
+                            <div class="modal-header center">
+                                <h4 id="H1" runat="server" class="modal-title">Confirmar</h4>
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            </div>
+
+                            <!-- Modal body -->
+                            <div class="modal-body">
+                                <!--LISTADO DE PREGUNTAS-->
+                              
+
+                                <div id="GridActividad" class="col-md-12 seccion_tabla">
+                                    <table class="table table-bordered table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Nombre Actividad</th>
+
+                                                <th scope="col">Dirección</th>
+                                                <th scope="col">Ubigeo</th>
+                                                <th scope="col">Fecha Inicio</th>
+                                                <th scope="col">Fecha Fin</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody id="tbbodyActividad"></tbody>
+                                    </table>
+                                    <ul id="_Paginacion" class="pagination pagination-sm"></ul>
+                                </div>
+                            </div>
+
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <%--<asp:LinkButton ID="btnSi" runat="server" OnClick="btnSi_Click" class="btn btnmodal1 btn-primary">Si</asp:LinkButton>--%>
+                                <%--<button type="button" class="btn btnmodal1" id="modal-btn-no" data-dismiss="modal">No</button>--%>
+                                <%--<asp:LinkButton ID="btnEnviarMdl" runat="server" OnClick="btnEnviarMdl_Click" type="button" class="btn btn-danger" data-dismiss="modal">LinkButton</asp:LinkButton>--%>
+                                <%--<asp:LinkButton id="btnEnviarMdl" runat="server" OnClick="btnEnviarMdl_Click" type="button" class="btn btn-danger" data-dismiss="modal"/>--%>
+                            </div>
+                        </div>
+                    </div>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+        <!--MODAL PREGUNTAS -->
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="PlantillaPrincipal.master.cs" Inherits="EventosBCRPFrontEnd.PlantillaPrincipal" %>
+
+<asp:Content ID="BodyPage" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="row">
+      <div class="col-sm-3" style="background: url('~/Images/Ima01.png') no-repeat;"></div>
+      <div class="col-sm-9">
+          <asp:ContentPlaceHolder ID="Pag2" runat="server">
+
+        </asp:ContentPlaceHolder>
+      </div>
+    </div> 
+</asp:Content>
+
+
+
+

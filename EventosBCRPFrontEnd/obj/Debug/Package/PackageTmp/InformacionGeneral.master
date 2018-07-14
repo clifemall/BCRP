@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Inscripcion.master" AutoEventWireup="true" CodeBehind="~/InformacionGeneral.master.cs" Inherits="EventosBCRPFrontEnd.InformacionGeneral" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="contentBody" runat="server">
+
+   <div class="container-fluid" style="">
+        <div class="row">
+            <div class="col-sm-11" style="padding :2px">
+                <asp:Button id="btnDatosPersonales" runat="server" class="btn" Text="Datos Personales"   OnClick="btnDatosPersonales_Click" ></asp:Button>
+                <asp:Button id="btnDatosContacto" runat="server" class="btn" Text="Datos de Contacto" OnClick="btnDatosContacto_Click"></asp:Button>
+                <asp:Button id="btnCondicionesEspeciales" runat="server" class="btn" Text="Condiciones Especiales" OnClick="btnCondicionesEspeciales_Click"></asp:Button>
+                <asp:Button id="btnAcompanante" runat="server" class="btn" Text="Acompañantes" OnClick="btnAcompanante_Click"></asp:Button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-11"  style="padding :20px;background-color: #eaeaea;">
+                <asp:ContentPlaceHolder ID="contentBody" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>           
+        </div>
+    </div>
+
+</asp:Content>
